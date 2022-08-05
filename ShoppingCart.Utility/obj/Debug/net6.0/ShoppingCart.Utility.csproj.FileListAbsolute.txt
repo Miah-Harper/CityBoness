@@ -1,0 +1,12 @@
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.deps.json
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.dll
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.pdb
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.csproj.AssemblyReference.cache
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.AssemblyInfoInputs.cache
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.AssemblyInfo.cs
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.dll
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\refint\ShoppingCart.Utility.dll
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.pdb
+C:\Users\Harpe\source\repos\CityBoness\ShoppingCart.Utility\obj\Debug\net6.0\ref\ShoppingCart.Utility.dll
