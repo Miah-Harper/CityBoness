@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harpe\\source\\repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj": {}
+    "C:\\Users\\Harpe\\Desktop\\Repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harpe\\source\\repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj": {
+    "C:\\Users\\Harpe\\Desktop\\Repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harpe\\source\\repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Harpe\\Desktop\\Repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
         "projectName": "ShoppingCart.Models",
-        "projectPath": "C:\\Users\\Harpe\\source\\repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
+        "projectPath": "C:\\Users\\Harpe\\Desktop\\Repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
         "packagesPath": "C:\\Users\\Harpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harpe\\source\\repos\\CityBoness\\ShoppingCart.Models\\obj\\",
+        "outputPath": "C:\\Users\\Harpe\\Desktop\\Repos\\CityBoness\\ShoppingCart.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Harpe\\AppData\\Roaming\\NuGet\\NuGet.Config",

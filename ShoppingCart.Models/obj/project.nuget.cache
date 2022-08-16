@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbAqVgKGsNuUT3ZqLCjeXsaGMzoVV66zj6qxk5v0NUihZ0rqdakbFhoi4ynu1KnLF9P3M8QJBLne7ZXwWT82AA==",
+  "dgSpecHash": "XQkn8VYa/ldpgo6A2xZTfBcmjJnYttlDz/OX9UCfNtDVOm4Mp9e5tufNZBlBXRgUNKpP9q7Oc1RNVs8/omkAaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harpe\\source\\repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
+  "projectFilePath": "C:\\Users\\Harpe\\Desktop\\Repos\\CityBoness\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harpe\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Harpe\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
